@@ -1,0 +1,2 @@
+# This service uses only the Python standard library.
+# Install pytest to run its test suite.
